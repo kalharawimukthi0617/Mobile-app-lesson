@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "90736447981",
+    "firebase_url": "https://fir-sinhala-crud.firebaseio.com",
+    "project_id": "fir-sinhala-crud",
+    "storage_bucket": "fir-sinhala-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90736447981:android:36de0d82f8f70fb3b997e4",
+        "android_client_info": {
+          "package_name": "com.example.firestoreuniversitycrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90736447981-ashpvo0vrua52bpuqkitnmbiudcfjg5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy6ng76vkIKersWiDev4qaWUqXekmb4NY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90736447981-ashpvo0vrua52bpuqkitnmbiudcfjg5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

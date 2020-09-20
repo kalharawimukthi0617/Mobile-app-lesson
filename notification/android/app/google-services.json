@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "471903609915",
+    "firebase_url": "https://ict-notification-160ba.firebaseio.com",
+    "project_id": "ict-notification-160ba",
+    "storage_bucket": "ict-notification-160ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471903609915:android:1ba45e5bc1fb8db9f2281e",
+        "android_client_info": {
+          "package_name": "com.kalmobileapps.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471903609915-m52pmkgl8ueisv0bn54keq4joqkpus1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvHOXLNBDpCH-ddqCVflJ12iv8UPcHK5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471903609915-m52pmkgl8ueisv0bn54keq4joqkpus1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

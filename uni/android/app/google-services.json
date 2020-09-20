@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "553785819086",
+    "firebase_url": "https://univer-3dfa4.firebaseio.com",
+    "project_id": "univer-3dfa4",
+    "storage_bucket": "univer-3dfa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553785819086:android:914d6dcd4834e9ee21b59f",
+        "android_client_info": {
+          "package_name": "com.kalmobileapps.uni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553785819086-a3q4bbcdi4d2dq2fjn9s5a3vplusonj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoHUct-QxHiaYKjmEFsGWMMg0--K3WLu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553785819086-a3q4bbcdi4d2dq2fjn9s5a3vplusonj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

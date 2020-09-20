@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "886787064818",
+    "firebase_url": "https://gram-master.firebaseio.com",
+    "project_id": "gram-master",
+    "storage_bucket": "gram-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886787064818:android:d0f3c030ea6670eae2e16b",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886787064818-t5foee6s9olf5og2fmq3trj0692m1abn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "e97f3885b1f47b6f6d92ab03f0eae1cbf40cf16f"
+          }
+        },
+        {
+          "client_id": "886787064818-6pijo7u6e7pruohvtu305e4kbjgkva9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3wZpu59epuh1VGJ5mbAg7Hcq6Fcd5uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886787064818-6pijo7u6e7pruohvtu305e4kbjgkva9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

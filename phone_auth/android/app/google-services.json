@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "357266536666",
+    "firebase_url": "https://asiri-maths-class.firebaseio.com",
+    "project_id": "asiri-maths-class",
+    "storage_bucket": "asiri-maths-class.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357266536666:android:f9a979a838c7c5eb2f0de3",
+        "android_client_info": {
+          "package_name": "com.kalmobileapps.phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357266536666-2k7m6uf1ggk6skn9nj806uvv9vbislpk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kalmobileapps.phone_auth",
+            "certificate_hash": "e97f3885b1f47b6f6d92ab03f0eae1cbf40cf16f"
+          }
+        },
+        {
+          "client_id": "357266536666-s3et5s84596i2mmfuc1nigv98n8uuami.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJiqWzQ2zd41-ClJPlFIyZj4kd2gxY2UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357266536666-s3et5s84596i2mmfuc1nigv98n8uuami.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

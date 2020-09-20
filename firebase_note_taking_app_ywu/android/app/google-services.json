@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "624916603172",
+    "firebase_url": "https://ywu-note-getting-app.firebaseio.com",
+    "project_id": "ywu-note-getting-app",
+    "storage_bucket": "ywu-note-getting-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624916603172:android:2ca64f4ca14f4b355cd3b1",
+        "android_client_info": {
+          "package_name": "com.example.firebasenotetakingappywu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624916603172-b5dmuif525ot326h5iuf9ide71jja58j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasenotetakingappywu",
+            "certificate_hash": "e97f3885b1f47b6f6d92ab03f0eae1cbf40cf16f"
+          }
+        },
+        {
+          "client_id": "624916603172-52lvbpi9el4b3f6dned9jccto7i4h8fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjFPUUAkHzvLGLVnz9vxHuz1JPLCGbHt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624916603172-52lvbpi9el4b3f6dned9jccto7i4h8fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

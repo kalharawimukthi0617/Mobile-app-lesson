@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "624932788719",
+    "firebase_url": "https://realtime-crud-2d26a.firebaseio.com",
+    "project_id": "realtime-crud-2d26a",
+    "storage_bucket": "realtime-crud-2d26a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624932788719:android:eaf56b2589fe47dba97e1a",
+        "android_client_info": {
+          "package_name": "com.kalmobileapps.real_time_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624932788719-9rbnc1t5a6jqdim8b78ufcgc9h6hcepa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHTTP0RzkMCP_PB0Hs6OWcDTg5Xr13cHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624932788719-9rbnc1t5a6jqdim8b78ufcgc9h6hcepa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

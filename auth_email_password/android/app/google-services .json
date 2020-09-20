@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "676683776019",
+    "firebase_url": "https://email-and-password-f2a21.firebaseio.com",
+    "project_id": "email-and-password-f2a21",
+    "storage_bucket": "email-and-password-f2a21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676683776019:android:6fb25278058cf024e8bfe6",
+        "android_client_info": {
+          "package_name": "com.kalmobileapps.auth_email_password"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676683776019-7a0gm5kom4iehl8rj504umfduokl91cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8mIaUwNfI6-P8xHEHcEnxa88lVGirsRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676683776019-7a0gm5kom4iehl8rj504umfduokl91cc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
