@@ -1,3 +1,5 @@
 flutter clean
 flutter build apk
 flutter build apk --no-shrink
+
+..
